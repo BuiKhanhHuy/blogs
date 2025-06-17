@@ -29,8 +29,9 @@ use Cake\Controller\Controller;
  */
 class AppController extends Controller
 {
+    // ahihi
     /**
-     * Initialization hook method.
+     * Initialization hook method.s
      *
      * Use this method to add common initialization code like loading components.
      *
